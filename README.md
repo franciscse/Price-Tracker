@@ -193,7 +193,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-[MIT License]
+This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 
