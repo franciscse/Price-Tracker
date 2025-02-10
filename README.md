@@ -107,21 +107,8 @@ For a visual guide on setting up and running this project, please refer to this 
 2.  **Access the Price Tracker Web Application:** Open your web browser and go to `http://localhost:8000`.
 3.  **Interact with the User Interface:** Use the web interface to browse tracked products from Amazon and Flipkart.
 
-## API Endpoints (Backend - if applicable, and adjust paths as needed)
 
-[If you have specific API endpoints within your Django app that you want to document (even if it's primarily template-based), describe them here. If not, you can remove this section or mention that the project is primarily template-driven.]
-
-## Contributing
-
-[If you want to make your project open source and accept contributions, add a contributing section here. You can include guidelines on how to contribute, report issues, and suggest features.]
-
-## License
-
-[Specify the license under which your project is licensed (e.g., MIT License, Apache 2.0 License). You should also include a `LICENSE` file in your repository.]
-
------
 
 **Disclaimer:** Web scraping can be against the terms of service of websites. Use this price tracker responsibly and ethically. Be mindful of website load and avoid excessive scraping that could harm the target websites. Always check the website's `robots.txt` and terms of service before scraping.
 
 **franciscse**
-[Date]
